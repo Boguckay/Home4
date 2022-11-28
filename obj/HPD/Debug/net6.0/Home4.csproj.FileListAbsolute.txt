@@ -1,0 +1,15 @@
+C:\Users\Марина\Desktop\Home4\bin\HPD\Debug\net6.0\Home4.exe
+C:\Users\Марина\Desktop\Home4\bin\HPD\Debug\net6.0\Home4.deps.json
+C:\Users\Марина\Desktop\Home4\bin\HPD\Debug\net6.0\Home4.runtimeconfig.json
+C:\Users\Марина\Desktop\Home4\bin\HPD\Debug\net6.0\Home4.dll
+C:\Users\Марина\Desktop\Home4\bin\HPD\Debug\net6.0\Home4.pdb
+C:\Users\Марина\Desktop\Home4\obj\HPD\Debug\net6.0\Home4.csproj.AssemblyReference.cache
+C:\Users\Марина\Desktop\Home4\obj\HPD\Debug\net6.0\Home4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Марина\Desktop\Home4\obj\HPD\Debug\net6.0\Home4.AssemblyInfoInputs.cache
+C:\Users\Марина\Desktop\Home4\obj\HPD\Debug\net6.0\Home4.AssemblyInfo.cs
+C:\Users\Марина\Desktop\Home4\obj\HPD\Debug\net6.0\Home4.csproj.CoreCompileInputs.cache
+C:\Users\Марина\Desktop\Home4\obj\HPD\Debug\net6.0\Home4.dll
+C:\Users\Марина\Desktop\Home4\obj\HPD\Debug\net6.0\refint\Home4.dll
+C:\Users\Марина\Desktop\Home4\obj\HPD\Debug\net6.0\Home4.pdb
+C:\Users\Марина\Desktop\Home4\obj\HPD\Debug\net6.0\Home4.genruntimeconfig.cache
+C:\Users\Марина\Desktop\Home4\obj\HPD\Debug\net6.0\ref\Home4.dll
